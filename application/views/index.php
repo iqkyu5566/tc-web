@@ -11,7 +11,8 @@
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/display/img/favicon.png">
 
-     <link href="<?php echo base_url("assets/display/font-awesome/css/font-awesome.min.css"); ?>" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="<?php echo base_url("assets/display/css/font-awesome.min.css"); ?>">
+   <!--  <script src="https://kit.fontawesome.com/280b243670.js" crossorigin="anonymous"></script> -->
     <link rel="stylesheet" href="<?php echo base_url("assets/display/css/bootstrap.min.css") ?>">
     <link rel="stylesheet" href="<?php echo base_url("assets/display/css/owl.carousel.min.css") ?>">
     <link rel="stylesheet" href="<?php echo base_url("assets/display/css/magnific-popup.css") ?>">
