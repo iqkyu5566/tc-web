@@ -9,7 +9,8 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SB Admin 2 - Dashboard</title>
+  <title><?php echo $titel_aplikasi; ?> <?php echo $versi_app; ?></title>
+  <link rel="shorcut icon" href="<?php echo base_url("./gambar/pengaturan/$logo_app1") ?>">
 
   <!-- Custom fonts for this template-->
   <link href="<?php echo base_url("assets/admin/vendor/fontawesome-free/css/all.min.css") ?>" rel="stylesheet" type="text/css">
